@@ -8,7 +8,7 @@ export default function Main() {
       <h1>Main</h1>
       <img className="image" src="images/code.avif" alt="메인 이미지" />
       <Link to="/">
-        <button className="button">이전으로로</button>
+        <button className="button">이전으로</button>
       </Link>
     </main>
   );
